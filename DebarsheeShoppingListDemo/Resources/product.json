@@ -1,0 +1,69 @@
+{
+    "product":
+    [
+        {
+            "name": "Apple MacBook Pro",
+            "category": "Electronics",
+            "price": 2280.99,
+            "description": "Ninth-generation 8-Core Intel Core i9 Processor, Stunning 16-inch Retina Display with True Tone technology, Touch Bar and Touch ID, Ultrafast SSD, Intel UHD Graphics 630, Six-speaker system with force-cancelling woofers, Four Thunderbolt 3 (USB-C) ports. Up to 11 hours of battery life, 802.11ac Wi-Fi",
+            "image": "New Apple MacBook Pro image",
+            "favourite": false
+        },
+        {
+            "name": "Samsung Galaxy S21",
+            "category": "Electronics",
+            "price": 1199.99,
+            "description": "Pro Grade Camera: Zoom in close, take photos and videos like a pro, and capture incredible share-ready moments with our easy-to-use, multi lens camera. Sharp 8K Video: Capture your life’s best moments in head-turning, super-smooth 8K video that gives your movies that cinema-style quality, Multiple Ways to Record: Create share-ready videos and GIFs on the spot with multi-cam recording and automatic professional-style effects, 100x Zoom: Get amazing clarity with a dual lens combo of 3x and 10x optical zoom, or go even further with our revolutionary 100x Space Zoom, Power of 5G: Get next-level power for everything you love to do with Galaxy 5G; More sharing, more gaming, more experiences and never miss a beat",
+            "image": "Samsun Phone Image",
+            "favourite": false
+        },
+        {
+            "name": "JBL FLIP 5 Bluetooth Speaker",
+            "category": "Electronics",
+            "price": 113.95,
+            "description": "Wireless Bluetooth streaming, 12 hours of playtime, IPX7 waterproof, Pair multiple speakers with party boost, Premium JBL sound quality, Connector type: 3.5 millimeter stereo, Power source type: Battery powered, Included components: Quick start guide",
+            "image": "speaker image",
+            "favourite": false
+        },
+        {
+            "name": "Glass Top Coffee Table",
+            "category": "Home",
+            "price": 138.99,
+            "description": "Dimensions: 19 inch H x 36 inch D x 36 inch L, Top surface supports up to 100 Ibs., Tabletop made with tempered safety glass, Rubber capped feet help prevent scratched floors, Ships ready-to-assemble with step-by-step instructions",
+            "image": "glass top cofee table image",
+            "favourite": false
+        },
+        {
+            "name": "Reversible Sleeper Sectional Sofa",
+            "category": "Home",
+            "price": 551.65,
+            "description": "Product Dimensions (L x W x H) 84.00 inch x 54.00 inch x 35.00 in; Seat Height - 18.00 inch; Seat depth - 18.00 inch; Sleeper Sofa Dimensions - 42.00 inch L x 71.00 inch W; Storage Chaise; Assembly Required",
+            "image": "sofa image",
+            "favourite": false
+        },
+        {
+            "name": "Mahogany Chest of Drawers ",
+            "category": "Home",
+            "price": 157.79,
+            "description": "Product Dimensions (L x W x H) 84.00 inch x 54.00 inch x 35.00 in; Seat Height - 18.00 inch; Seat depth - 18.00 inch; Sleeper Sofa Dimensions - 42.00 inch L x 71.00 inch W; Storage Chaise; Assembly Required",
+            "image": "dresser image",
+            "favourite": false
+        },
+        {
+            "name": "HP ENVY 6055 Wireless All-in-One Printer",
+            "category": "Office",
+            "price": 129.89,
+            "description": "All-in-1 versatility: Handle tasks at home with print, scan, and copy versatility, and save time and paper with automatic two-sided printing from a color printer made with 20% recycled plastic, Ink delivered to your home: Get your first 2 months free when you enroll in HP Instant Ink (optional) during printer set up; plans starting at 0.99 dollar per month after the trial period, shipping and recycling included, Mobile setup with the required HP Smart app: Fast and easy printer setup that guides you, step by step; simply download the HP Smart app, connect to Wi-Fi, and share the inkjet printer across all your devices, 1-year limited hardware warranty: Get help with 24-hour, 7 days a week free Web support. Use genuine HP 67 Black/Tri-color ink cartridges",
+            "image": "printer image",
+            "favourite": false
+        },
+        {
+            "name": "Bostitch Ascend 3 in 1 Stapler",
+            "category": "Office",
+            "price": 6.99,
+            "description": "Built-in staple remover and hidden staple storage, Antimicrobial protected full strip desktop stapler, Ergonomic, lightweight design for comfortable use, Opens 180-degrees for tacking, 20 sheet capacity",
+            "image": "stapler image",
+            "favourite": false
+        },
+    ]
+}
