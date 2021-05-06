@@ -1,5 +1,9 @@
 # Project Name: ShoppingListAppDemo
 
+<p align="center">
+<img src="https://i.imgur.com/LRRo2jG.png"> 
+</p>
+
 This is a demo application that showcase implementation of table view
 
 ## Technologies
